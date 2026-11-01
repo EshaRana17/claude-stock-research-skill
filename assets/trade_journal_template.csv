@@ -1,0 +1,4 @@
+trade_id,date_open,date_close,ticker,side,setup,entry_price,exit_price,shares,initial_stop,planned_target,fees,followed_plan,emotion,notes
+1,2026-01-05,2026-01-09,EXMPL,long,breakout,50.00,55.00,100,47.50,57.50,2.00,yes,calm,Example row. Replace with your own trades.
+2,2026-01-12,2026-01-13,SAMPL,short,failed-rally,120.00,126.40,40,126.00,108.00,2.00,no,fomo,Example row. Stop filled past plan after a gap.
+3,2026-01-20,,DEMO,long,pullback,30.00,,200,28.80,33.60,1.00,yes,calm,Example open trade. Leave date_close and exit_price empty until closed.

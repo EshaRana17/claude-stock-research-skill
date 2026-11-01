@@ -1,0 +1,7 @@
+{
+  "name": "stock-research",
+  "description": "Educational stock and ETF research assistant: sourced research memos, technical snapshots, position-size and risk calculations, and trade journal reviews. Decision support only, never personalized financial advice.",
+  "type": "skill",
+  "network": [],
+  "env": []
+}
