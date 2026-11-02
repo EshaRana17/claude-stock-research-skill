@@ -106,7 +106,7 @@ Options: `--side long|short` (inferred from entry and stop if omitted), `--targe
 - The skill makes **no network calls of its own**. `scripts/position_size.py` uses only the Python standard library, does not import any networking module, reads no files, writes nothing to disk, and needs no environment variables or API keys. `agent.json` declares `"network": []` and `"env": []`.
 - Any web research happens through tools your agent already has (for example web search) and under that agent's own permission prompts. The skill never asks for brokerage credentials and never places orders.
 - No shell commands in the skill modify your system.
-- This skill was scanned on Vetted Agents: <https://agentvet-seven.vercel.app/verified>.
+- This skill was scanned on AgenticMart: <https://agenticmart.vercel.app/verified>.
 
 You are encouraged to read every file before installing; the whole skill is a few hundred lines of Markdown and one short Python script.
 
